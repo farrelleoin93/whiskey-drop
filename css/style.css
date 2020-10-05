@@ -195,7 +195,16 @@ body {
     color: #f05f40;
 }
 
+/* Favorites */
+
+.line-color {
+    background-color: #f05f40;
+}
+
 thead {
     background-color: #2e2e3f;
     color: white;
 }
+
+
+
